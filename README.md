@@ -6,3 +6,4 @@
 
 https://mohammadmrida.github.io/assets/files/dashboard_weather_data2.pdf
  
+<object data="dashboard_weather_data2.pdf" width="1000" height="1000" type='application/pdf'/>
