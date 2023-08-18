@@ -7,6 +7,13 @@
 #### :clipboard:  <strong>Observation (Column):</strong> Dataset contained 8 obeservations - Release Date, Title, Runtime, Reveue, Budget, Original Language and Popularity
 #### :bar_chart: ETL & Dashboard Tools: PowerBI, Power Query
 
+
+  <br>
+  
+(---)
+
+### :mag_right: Key Findings 1:</br>
+
 <p align="center">
   <img src="PowerBI_Dashboard_Weather.png" width="100%" alt="accessibility text">
 </p>
