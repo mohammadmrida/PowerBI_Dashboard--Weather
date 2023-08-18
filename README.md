@@ -12,7 +12,7 @@
   
 (---)
 
-### :mag_right: Key Findings 1:</br>
+### :mag_right: Key Findings:</br>
 
 <p align="center">
   <img src="PowerBI_Dashboard_Weather.png" width="100%" alt="accessibility text">
